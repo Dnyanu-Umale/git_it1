@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 game to code
-=======
 apps list
->>>>>>> movies
+
